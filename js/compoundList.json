@@ -1,0 +1,38 @@
+{    
+  "0": {
+    "element_name": "Na",
+    "barcode_value": 2,
+    "number_of_electron": 1
+  },
+  
+  "1": {
+    "element_name": "Cl",
+    "barcode_value": 5,
+    "number_of_electron": 7      
+  },
+
+  "2": {
+    "element_name" : "O",
+    "barcode_value" : 8,
+    "number_of_electron" : 6
+  },
+
+  "3": {
+    "element_name" : "S",
+    "barcode_value" : 9,
+    "number_of_electron" : 16
+  },
+
+  "4": {
+    "element_name" : "Se",
+    "barcode_value" : 10,
+    "number_of_electron" : 34
+  },
+
+  "5": {
+    "element_name" : "H",
+    "barcode_value" : 11,
+    "number_of_electron" : 1
+  }
+  
+}
